@@ -8,6 +8,8 @@
 
 Triangels is ArchLinux base from Arcolinux
 
+This repo is for all dotfiles
+
 
 # Websites
 
