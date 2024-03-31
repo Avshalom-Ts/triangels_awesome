@@ -1,1 +1,3 @@
-# triangels_awesome_repo
+# Triangels awesome repo
+
+an arch linux base from arco linux
