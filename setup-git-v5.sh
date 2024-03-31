@@ -2,7 +2,7 @@
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
-# Author 	: 	Avshalom-Ts
+# Author 	: 	Avshalom Zarviv
 # Website 	: 	http://www.Avshalom-Ts.com
 ##################################################################################################################
 ##################################################################################################################
@@ -26,7 +26,7 @@
 
 project=$(basename `pwd`)
 echo "-----------------------------------------------------------------------------"
-echo "this is project https://github.com/Avshalom-Ts/"$project
+echo "this is project https://github.com/erikdubois/"$project
 echo "-----------------------------------------------------------------------------"
 git config --global pull.rebase false
 git config --global user.name "Avshalom-Ts"
