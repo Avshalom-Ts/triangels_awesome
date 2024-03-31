@@ -20,3 +20,5 @@ Information : In the future
 
 Blank
 
+## Commands
+makepkg OR makepkg -si if the first faild
